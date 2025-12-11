@@ -1,0 +1,111 @@
+# FARM UP - Complete File Listing
+
+## Root Directory Files
+- 404.html
+- DEPLOYMENT_GUIDE.md
+- DATABASE_SCHEMA.md
+- FINAL_PROJECT_SUMMARY.md
+- IMPLEMENTATION_SUMMARY.md
+- PROGRESS_SUMMARY.md
+- README.md
+- RUNNING_THE_APP.md
+- USAGE.md
+- VSCODE_IMPORT_INSTRUCTIONS.md
+- index.html
+- index.js
+- package.json
+- pubspec.yaml
+- redirect.html
+- server.js
+- start.bat
+
+## Assets Directory (/assets)
+- (Empty or contains media files)
+
+## Lib Directory (/lib)
+### Main Files
+- main.dart
+
+### Models (/lib/models)
+- community_post.dart
+- crop_recommendation.dart
+- disease_record.dart
+- equipment.dart
+- government_scheme.dart
+- insurance_policy.dart
+- inventory_item.dart
+- livestock.dart
+- market_price.dart
+- soil_data.dart
+- supply_chain.dart
+- user.dart
+- video_tutorial.dart
+- water_schedule.dart
+- yield_data.dart
+
+### Services (/lib/services)
+- auth_service.dart
+- budget_calculator_service.dart
+- community_service.dart
+- disease_detection_service.dart
+- equipment_service.dart
+- government_schemes_service.dart
+- insurance_service.dart
+- inventory_service.dart
+- livestock_service.dart
+- market_service.dart
+- offline_manager.dart
+- organic_certification_service.dart
+- report_export_service.dart
+- soil_analysis_service.dart
+- supply_chain_service.dart
+- sync_service.dart
+- video_library_service.dart
+- water_management_service.dart
+- weather_service.dart
+- yield_service.dart
+
+### Screens (/lib/screens)
+- ai_assistant_screen.dart
+- auth_screen.dart
+- budget_calculator_screen.dart
+- community_screen.dart
+- dashboard_screen.dart
+- disease_detection_screen.dart
+- equipment_marketplace_screen.dart
+- government_schemes_screen.dart
+- home_screen.dart
+- insurance_management_screen.dart
+- inventory_management_screen.dart
+- livestock_management_screen.dart
+- market_intelligence_screen.dart
+- market_trends_screen.dart
+- organic_certification_screen.dart
+- profile_screen.dart
+- report_export_screen.dart
+- settings_screen.dart
+- soil_analysis_screen.dart
+- supply_chain_screen.dart
+- video_library_screen.dart
+- water_management_screen.dart
+- weather_screen.dart
+- yield_tracking_screen.dart
+
+### Widgets (/lib/widgets)
+- crop_recommendations_list.dart
+- soil_analysis_form.dart
+
+### Database (/lib/database)
+- database_helper.dart
+
+### Utils (/lib/utils)
+- (May be empty or contain utility files)
+
+## Docs Directory (/docs)
+- 404.html
+- CNAME
+- README.md
+- index.html
+
+## Test Directory (/test)
+- (May be empty or contain test files)

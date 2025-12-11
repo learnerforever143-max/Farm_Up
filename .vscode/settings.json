@@ -1,0 +1,22 @@
+{
+    "dart.flutterSdkPath": "/path/to/your/flutter/sdk",
+    "editor.formatOnSave": true,
+    "dart.formatOnSave": true,
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/__pycache__": true,
+        "**/Thumbs.db": true,
+        "**/.dart_tool": true,
+        "**/.pub": true,
+        "**/build": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/build": true,
+        "**/dist": true,
+        "**/coverage": true,
+        "**/.dart_tool": true,
+        "**/.pub": true,
+        "**/build/**": true
+    }
+}
